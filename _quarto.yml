@@ -5,9 +5,24 @@ project:
 
 website:
   title: "PRU"
+  logo: 
+  background: success
+  search: true
   navbar:
-    background: primary
-    search: true
+    background: success
+    left:
+      - href: home.qmd
+        text: Home
+      - text: "Team"
+        menu:
+          - href: about.qmd
+            text: Team Lead
+          - href: about.qmd
+            text: RM & M&E Expert
+          - href: about.qmd
+            text: Data Analyst  .
+      - href: about.qmd
+        text: About
     tools:
       - icon: twitter
         href: https://twitter.com
@@ -17,11 +32,6 @@ website:
             url:  https://code.com
           - text: Report a Bug
             url:  https://bugs.com
-    left:
-      - href: home.qmd
-        text: Home
-      - href: about.qmd
-        text: About
   page-navigation: true
   page-footer: 
     left: "Copyright 2022, PRU" 
