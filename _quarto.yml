@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PRU"
+  navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
+    left:
+      - href: home.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+  page-navigation: true
+  page-footer: 
+    left: "Copyright 2022, PRU" 
+    right: 
+      - icon: github
+        href: https://github.com/prupk
+      - icon: twitter 
+        href: https://twitter.com/pru_pk 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
