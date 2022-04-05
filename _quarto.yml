@@ -1,6 +1,7 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs     # For https://prupk.github.io/
+# output-dir: public   # For https://prupk.com/
 
 website:
   title: "PRU"
