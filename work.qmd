@@ -1,9 +1,50 @@
 ---
 title: "Work"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    number-sections: true
+    number-depth: 3
+    toc-title: Contents
+    smooth-scroll: true
+    html-math-method: katex
+    css: styles.css
 ---
 
 # Beneficiary Assessment Study of BISP Kafalaat Beneficiaries
+
 ## Survey Background
+
 The BISP is exploring a number of options for streamlining its payment model, in view of complaints of deductions by POS agents. In this regard, the Payment Mechanisms Committee of BISP Board has directed that a beneficiary assessment study needs to be conducted to obtain feedback and opinion of BISP beneficiaries to determine which model would be best suited for catering to their requirements. For this purpose, the Policy and Research Unit of BISP has developed a short survey questionnaire for gathering relevant information from BISP beneficiaries across the country, in collaboration with the CT Wing. The information for this survey will be collected from each tehsil office of BISP across Pakistan. In view of the urgency of carrying out this exercise, Secretary BISP has desired that this survey activity should be completed in the next 10-14 days.
+
+## Important Instructions
+
+In this regard, the roles and responsibilities of the Assistant Directors of each Tehsil Office who will be involved in implementation of this survey are outlined below:
+
+-   All ADs will attend an online training session (of around 30 -- 45 minutes) on conducting this survey, starting from week (December 12, 2022 onwards), where instructions will be provided on how to fill in information for each question in the survey form.
+
+    -   The schedule of the training sessions across all provinces/ regions will be communicated by Field Operations team.
+
+    -   The survey forms/ questionnaires will be filled in online using tablets/ mobiles, for which detailed instructions will be provided in the training session.
+
+    -   Each AD will use their PCMS login ID for joining the online training session.
+
+-   Once an AD receives training, he/ she will be given 2-3 days for getting 15-20 questionnaires filled from BISP beneficiaries who come to their tehsil offices or from those coming to POS agents in their area (during tranche period).
+
+    -   For starting the survey, each AD will use their PCMS login ID one time to fill in a survey form. For each subsequent survey form, there will be no need to punch in this login ID.
+
+    -   After expiry of designated time for filling the questionnaire, the online survey form cannot be accessed.
+
+    -   One survey form/ questionnaire would take, on average, 8-10 minutes to fill out completely.
+
+    -   It needs to be ensured that each survey form is filled out in person from the BISP beneficiaries, instead of using system based information.
+
+    -   Information on the CNIC number of the interviewed beneficiary needs to be correctly entered in each survey form
+
+-   In case of any technical issues or problems in filling out the survey form, the concerned AD will report the problem to their designated focal person, who will get advice of technical team in Headquarters and respond accordingly.
+
+## User's Manual
 
 The User's Manual may be accessed from [User's Manul](https://raw.githubusercontent.com/prupk/Work/main/2022-12-10_BNA_Survey/2022-12-10_User's_Manual_for_Beneficiary_Assessment_Study_of_BISP_Kafalaat_Beneficiaries.pdf).
