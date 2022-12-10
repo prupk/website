@@ -1,12 +1,12 @@
 project:
   type: website
-  output-dir: docs     # For https://prupk.github.io/
-# output-dir: public   # For https://prupk.com/
+  output-dir: public   # For https://prupk.com/
+#  output-dir: docs     # For https://prupk.github.io/
 
 website:
   title: "PRU"
-  logo: 
-  background: success
+  #logo: 
+  #background: success
   search: true
   navbar:
     background: success
@@ -15,12 +15,14 @@ website:
         text: Home
       - text: "Team"
         menu:
-          - href: about.qmd
+          - href: TeamLead.qmd
             text: Team Lead
-          - href: about.qmd
+          - href: RM&M&EE.qmd
             text: RM & M&E Expert
-          - href: about.qmd
-            text: Data Analyst  .
+          - href: DataAnalyst.qmd
+            text: Data Analyst
+      - href: work.qmd
+        text: Work
       - href: about.qmd
         text: About
     tools:
