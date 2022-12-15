@@ -13,7 +13,7 @@ format:
     css: styles.css
 ---
 
-# Beneficiary Assessment Study of BISP Kafalaat Beneficiaries
+# Beneficiary Assessment Study of BISP Kifalat Beneficiaries
 
 ## Survey Background
 
@@ -47,4 +47,8 @@ In this regard, the roles and responsibilities of the Assistant Directors of eac
 
 ## User's Manual
 
-The User's Manual may be accessed from [User's Manul](https://raw.githubusercontent.com/prupk/Work/main/2022-12-10_BNA_Survey/2022-12-10_User's_Manual_for_Beneficiary_Assessment_Study_of_BISP_Kafalaat_Beneficiaries.pdf).
+The User's Manual may be accessed from [User's Manul](https://raw.githubusercontent.com/prupk/Work/main/2022-12-10_BNA_Survey/2022-12-10_User's_Manual_for_Beneficiary_Assessment_Study_of_BISP_Kifalat_Beneficiaries.pdf).
+
+## Video of Training Workshop
+
+{{< video https://youtu.be/_b7hGitBHgU >}}
