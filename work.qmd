@@ -52,3 +52,14 @@ The User's Manual may be accessed from [User's Manul](https://raw.githubusercont
 ## Video of Training Workshop
 
 {{< video https://youtu.be/_b7hGitBHgU >}}
+
+
+## Slides
+
+The Slides may be accessed from [Slides](https://prupk.com/slides/2023-02-03/index.html).
+
+Press f for Fullscreen view.
+
+```{=html}
+<iframe width = "780" height = "500" src = "https://prupk.com/slides/2023-02-03/index.html" title = "https://prupk.com/slides/2023-02-03/index.html"></iframe>
+```

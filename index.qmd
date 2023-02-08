@@ -3,3 +3,12 @@ title: "Policy & Research Unit"
 ---
 
 This is a website of Policy & Research Unit, Pakistan.
+
+Introduction to PRU (slides) may be accessed from [2023-02-07_Slides](https://prupk.com/slides/2023-02-07/index.html).
+
+Press f for Fullscreen view.
+
+```{=html}
+<iframe width = "780" height = "500" src = "https://prupk.com/slides/2023-02-07/index.html" title = "https://prupk.com/slides/2023-02-07/index.html"></iframe>
+```
+
